@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQHCdRJubRYuLg/profile-displaybackgroundimage-shrink_350_1400/0/1688033440677?e=1693440000&v=beta&t=lr_QOcSsczDcl4HJuJVlHbNojpW-cfBZKMMVl0xECg8)
+![MasterHead](https://drive.google.com/file/d/1u7E3pr2ZsQvG0HnsrwK3Ruxb_IRxBNpQ/view?usp=drive_link)
 <h1 align="center">Hi 👋, I'm Yash Patel</h1>
 <h3 align="center">Experienced Flutter developer skilled in creating cross-platform mobile applications with a passion for delivering engaging user experiences.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash10012002&label=Profile%20views&color=0e75b6&style=flat" alt="yash10012002" /> </p>
